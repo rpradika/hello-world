@@ -1,2 +1,5 @@
 # hello-world
-my first github
+
+Hi Humans,
+
+Rando here, i recently learn node.js
